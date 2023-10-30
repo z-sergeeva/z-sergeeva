@@ -2,4 +2,5 @@
 
 ## I am a highly motivated and detail-oriented professional with a strong passion for software testing. As a Junior Tester, I am eager to contribute my technical skills and knowledge to ensure the quality and reliability of software products. 
 
-lenguages
+### Languages and Tools
+![Jira](https://img.shields.io/badge/-Jira-#000000?style=for-the-badge&logo=jira&logoColor=47C5FB)
