@@ -1,6 +1,12 @@
 ![Header](https://github.com/z-sergeeva/z-sergeeva/blob/main/pic/Снимок%20экрана%202023-10-29%20в%2018.14.07.png)
 
-Обо мне -------  I am a highly motivated and detail-oriented professional with a strong passion for software testing. As a Junior Tester, I am eager to contribute my technical skills and knowledge to ensure the quality and reliability of software products.  * 🌍  I'm based in Moscow * ✉️  You can contact me at [z.sergeeva2000@yandex.ru](mailto:z.sergeeva2000@yandex.ru) * 🧠  I'm learning Я так же изучаю английский и китайский язык * ⚡  Я также изучаю китайский язык и английский
+Обо мне 
+-------  
+I am a highly motivated and detail-oriented professional with a strong passion for software testing. As a Junior Tester, I am eager to contribute my technical skills and knowledge to ensure the quality and reliability of software products.  
+* 🌍  I'm based in Moscow
+* ✉️  You can contact me at [z.sergeeva2000@yandex.ru](mailto:z.sergeeva2000@yandex.ru)
+* 🧠  I'm learning Я так же изучаю английский и китайский язык
+* ⚡  Я также изучаю китайский язык и английский
 
 ### Skills  
 
