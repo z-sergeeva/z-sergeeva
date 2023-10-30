@@ -18,6 +18,7 @@
 ### Тестирование веб-приложение
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" itle="devtools" alt="devtools" width="120" height="40"/>
 ### Работа с фронтенд
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="git" alt="git" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="git" alt="git" width="50" height="50"/>
 
 ### База данных
 
