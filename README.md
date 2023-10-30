@@ -5,7 +5,7 @@
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=47C5FB)
-![Visual Studio Code](https://img.shields.io/badge/-Visual lStudio Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=47C5FB)
-![Apache JMeter](https://img.shields.io/badge/-Apache JMeter-090909?style=for-the-badge&logo=ApacheJMeter&logoColor=47C5FB)
+![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=47C5FB)
+![Apache JMeter](https://img.shields.io/badge/-ApacheJMeter-090909?style=for-the-badge&logo=Apache-JMeter&logoColor=47C5FB)
 ![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
