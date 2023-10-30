@@ -8,6 +8,10 @@
 * ✉️  Вы можете связаться со мной [z.sergeeva2000@yandex.ru](mailto:z.sergeeva2000@yandex.ru)
 * 🌍  Живу в москве
 
+### Социальные сети
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
+
 ### Тестовая документация 
 
 ### Приложения
