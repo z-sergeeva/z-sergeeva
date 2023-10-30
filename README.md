@@ -27,13 +27,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 
  
-
-### Languages and Tools
-![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)
-![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=47C5FB)
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-090909?style=for-the-badge&logo=Visual-Studio-Code&logoColor=47C5FB)
-![Apache JMeter](https://img.shields.io/badge/-ApacheJMeter-090909?style=for-the-badge&logo=Apache-JMeter&logoColor=47C5FB)
-![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
-![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
-### Socal networks
+### Дипломы
 
